@@ -1,0 +1,7 @@
+organization=kmmprojects
+projectKey=kmmprojects_kmm-projects
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.54268
+dashboardUrl=https://sonarcloud.io/dashboard?id=kmmprojects_kmm-projects
+ceTaskId=AY9ZS-nz4JcM2htt-KwP
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY9ZS-nz4JcM2htt-KwP
